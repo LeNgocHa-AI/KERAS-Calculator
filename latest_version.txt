@@ -1,1 +1,1 @@
-1.5.2.95
+{"version": "1.5.2.95", "download_url": "https://raw.githubusercontent.com/LeNgocHa-AI/KERAS-Calculator/refs/heads/main/KERAS-ver.1.5.1.37.py"}
